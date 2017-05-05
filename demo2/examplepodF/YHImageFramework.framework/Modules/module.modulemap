@@ -1,0 +1,6 @@
+framework module YHImageFramework {
+  umbrella header "YHImageFramework.h"
+
+  export *
+  module * { export * }
+}
