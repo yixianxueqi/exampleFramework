@@ -1,0 +1,2 @@
+# exampleFramework
+验证打静态库的问题，demo1是用来打framework静态库的项目，demo2是验证framework是否可用
